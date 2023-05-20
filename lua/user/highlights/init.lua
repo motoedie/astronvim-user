@@ -1,5 +1,7 @@
 return { -- this table overrides highlights in all themes
   -- Normal = { bg = "#000000" },
+  NeoTreeNormal = { bg = "NONE" },
+  NeoTreeNormalNC = { bg = "NONE" },
   NotifyINFOBody = { bg = "NONE" },
   NotifyWARNBody = { bg = "NONE" },
   NotifyERRORBody = { bg = "NONE" },
