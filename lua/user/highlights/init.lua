@@ -1,5 +1,6 @@
 return { -- this table overrides highlights in all themes
   -- Normal = { bg = "#000000" },
+  FoldColumn = { bg = "NONE" },
   NeoTreeNormal = { bg = "NONE" },
   NeoTreeNormalNC = { bg = "NONE" },
   NotifyINFOBody = { bg = "NONE" },
