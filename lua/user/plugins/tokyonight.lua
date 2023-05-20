@@ -6,5 +6,8 @@ return {
         bg = c.bg_visual,
       }
     end,
+    on_colors = function(colors)
+      colors.bg_statusline = colors.none
+    end
   },
 }
