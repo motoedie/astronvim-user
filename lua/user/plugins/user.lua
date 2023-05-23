@@ -30,4 +30,9 @@ return {
     'tpope/vim-fugitive',
     lazy = false,
   },
+  {
+    'AckslD/muren.nvim',
+    config = true,
+    lazy = false,
+  }
 }
