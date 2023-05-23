@@ -34,6 +34,7 @@ return {
       end,
       desc = "Open file history",
     },
+    ["<leader>lt"] = {"<cmd>lua vim.lsp.buf.hover()<cr>", desc = "Type diagnostics" },
   },
   i = {
     ["<A-h>"] = { "<left>" },
