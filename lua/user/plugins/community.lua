@@ -6,7 +6,7 @@ return {
 
   { import = "astrocommunity.bars-and-lines.heirline-mode-text-statusline" },
   { import = "astrocommunity.color.twilight-nvim" },
-  { import = "astrocommunity.colorscheme.tokyonight" },
+  { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.diagnostics.trouble-nvim" },
   { import = "astrocommunity.editing-support.cutlass-nvim" },
   { import = "astrocommunity.editing-support.nvim-ts-rainbow2" },
