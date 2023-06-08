@@ -30,9 +30,9 @@ return {
     },
     ["<leader>gf"] = {
       function()
-        require("telescope.file_history").history()
+        require("telescope.builtin").git_bcommits()
       end,
-      desc = "Open file history",
+      desc = "Git file history",
     },
     ["<leader>lt"] = {"<cmd>lua vim.lsp.buf.hover()<cr>", desc = "Type diagnostics" },
   },
