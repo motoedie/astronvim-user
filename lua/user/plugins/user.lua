@@ -6,12 +6,6 @@ return {
     end,
   },
   {
-    "smjonas/inc-rename.nvim",
-    config = function()
-      require("inc_rename").setup()
-    end,
-  },
-  {
     'lukas-reineke/indent-blankline.nvim',
     config = function()
       require("indent_blankline").setup {
