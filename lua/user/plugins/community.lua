@@ -12,7 +12,6 @@ return {
   { import = "astrocommunity.editing-support.nvim-ts-rainbow2" },
   { import = "astrocommunity.editing-support.treej" },
   { import = "astrocommunity.git.git-blame-nvim" },
-  { import = "astrocommunity.git.neogit" },
   { import = "astrocommunity.indent.indent-blankline-nvim" },
   { import = "astrocommunity.indent.mini-indentscope" },
   { import = "astrocommunity.lsp.inc-rename-nvim" },
