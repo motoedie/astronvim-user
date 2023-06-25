@@ -4,6 +4,7 @@ return {
     lazy = false,
     opts = function(_, opts)
       return require("astronvim.utils").extend_tbl(opts, {
+        sources = { "filesystem" },
         window = {
           width = 50,
           -- width = "fit_content",
