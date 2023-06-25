@@ -28,6 +28,7 @@ return {
   { import = "astrocommunity.project.nvim-spectre" },
   { import = "astrocommunity.scrolling.mini-animate" },
   { import = "astrocommunity.scrolling.nvim-scrollbar" },
+  { import = "astrocommunity.split-and-window.edgy-nvim" },
   { import = "astrocommunity.syntax.vim-cool" },
   { import = "astrocommunity.utility.transparent-nvim" },
 }
