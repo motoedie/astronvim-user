@@ -9,7 +9,7 @@ return {
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.diagnostics.trouble-nvim" },
   { import = "astrocommunity.editing-support.cutlass-nvim" },
-  { import = "astrocommunity.editing-support.nvim-ts-rainbow2" },
+  { import = "astrocommunity.editing-support.rainbow-delimiters-nvim" },
   { import = "astrocommunity.editing-support.treesj" },
   { import = "astrocommunity.git.git-blame-nvim" },
   { import = "astrocommunity.indent.indent-blankline-nvim" },
