@@ -30,4 +30,5 @@ return {
   { import = "astrocommunity.scrolling.nvim-scrollbar" },
   { import = "astrocommunity.syntax.vim-cool" },
   { import = "astrocommunity.utility.transparent-nvim" },
+  { import = "astrocommunity.utility.nvim-toggler" },
 }
