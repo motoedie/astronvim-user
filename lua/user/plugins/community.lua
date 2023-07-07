@@ -18,6 +18,7 @@ return {
   { import = "astrocommunity.motion.hop-nvim" },
   { import = "astrocommunity.motion.mini-move" },
   { import = "astrocommunity.motion.nvim-surround" },
+  { import = "astrocommunity.pack.full-dadbod" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.rust" },
