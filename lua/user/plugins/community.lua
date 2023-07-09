@@ -26,6 +26,7 @@ return {
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.programming-language-support.nvim-jqx" },
   { import = "astrocommunity.project.nvim-spectre" },
   { import = "astrocommunity.scrolling.mini-animate" },
   { import = "astrocommunity.scrolling.nvim-scrollbar" },
