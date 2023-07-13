@@ -1,6 +1,9 @@
 return {
   "folke/tokyonight.nvim",
   opts = {
+    styles = {
+      keywords = { italic = false },
+    },
     on_highlights = function(hl, c)
       hl.CursorLine = {
         bg = c.bg_visual,
