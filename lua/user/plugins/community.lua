@@ -13,6 +13,7 @@ return {
   { import = "astrocommunity.editing-support.hypersonic-nvim" },
   { import = "astrocommunity.editing-support.rainbow-delimiters-nvim" },
   { import = "astrocommunity.editing-support.treesj" },
+  { import = "astrocommunity.git.diffview-nvim" },
   { import = "astrocommunity.git.git-blame-nvim" },
   { import = "astrocommunity.indent.indent-blankline-nvim" },
   { import = "astrocommunity.indent.mini-indentscope" },
