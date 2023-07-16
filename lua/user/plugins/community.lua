@@ -5,7 +5,7 @@ return {
   -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
 
   { import = "astrocommunity.bars-and-lines.heirline-mode-text-statusline" },
-  { import = "astrocommunity.bars-and-lines.illuminate-vim" },
+  { import = "astrocommunity.bars-and-lines.vim-illuminate" },
   { import = "astrocommunity.code-runner.executor-nvim" },
   { import = "astrocommunity.color.twilight-nvim" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
