@@ -39,4 +39,5 @@ return {
   { import = "astrocommunity.syntax.vim-cool" },
   { import = "astrocommunity.utility.nvim-toggler" },
   { import = "astrocommunity.utility.transparent-nvim" },
+  { import = "astrocommunity.workflow.hardtime-nvim" },
 }
