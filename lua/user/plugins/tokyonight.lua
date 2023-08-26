@@ -7,7 +7,7 @@ return {
     },
     on_highlights = function(hl, c)
       hl.CursorLine = {
-        bg = c.bg_visual,
+        bg = c.bg_dark,
       }
       hl.DiagnosticUnnecessary = {
         fg = c.comment,
