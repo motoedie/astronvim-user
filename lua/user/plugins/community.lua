@@ -6,7 +6,6 @@ return {
 
   { import = "astrocommunity.bars-and-lines.heirline-mode-text-statusline" },
   { import = "astrocommunity.bars-and-lines.vim-illuminate" },
-  { import = "astrocommunity.code-runner.executor-nvim" },
   { import = "astrocommunity.color.twilight-nvim" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.completion.copilot-lua-cmp" },
