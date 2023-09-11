@@ -6,6 +6,7 @@ return {
 
   { import = "astrocommunity.bars-and-lines.heirline-mode-text-statusline" },
   { import = "astrocommunity.bars-and-lines.vim-illuminate" },
+  { import = "astrocommunity.color.transparent-nvim" },
   { import = "astrocommunity.color.twilight-nvim" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.completion.copilot-lua-cmp" },
@@ -37,5 +38,4 @@ return {
   { import = "astrocommunity.scrolling.nvim-scrollbar" },
   { import = "astrocommunity.syntax.vim-cool" },
   { import = "astrocommunity.utility.nvim-toggler" },
-  { import = "astrocommunity.utility.transparent-nvim" },
 }
