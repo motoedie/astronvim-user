@@ -28,6 +28,11 @@ return {
   },
 
   lsp = {
+    config = {
+      tsserver = {
+        on_attach = function(client, bufnr) require("twoslash-queries").attach(client, bufnr) end,
+      },
+    },
     -- customize lsp formatting options
     formatting = {
       -- control auto formatting on save
